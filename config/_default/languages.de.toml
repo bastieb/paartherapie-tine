@@ -1,0 +1,17 @@
+locale = "de"
+label = "Deutsch"
+weight = 1
+languageCode = "de"
+title = "Paartherapie Heidelberg"
+
+[params]
+  displayName = "Deutsch"
+  isoCode = "de"
+  rtl = false
+  dateFormat = "2. January 2006"
+  description = "Einzel-, Paar- und Sexualtherapie in Heidelberg – systemische Beratung in einem vertraulichen Rahmen."
+
+[params.author]
+  name = "Paartherapie Heidelberg"
+  headline = "Einzel-, Paar- und Sexualtherapie in Heidelberg"
+  bio = "Wir begleiten Sie durch alle Phasen Ihrer Beziehung – einfühlsam, professionell und vertraulich."

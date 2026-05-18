@@ -1,0 +1,25 @@
+[build]
+  publish = "public"
+  command = "hugo --minify"
+
+[build.environment]
+  HUGO_VERSION = "0.147.0"
+  HUGO_ENVIRONMENT = "production"
+  NODE_ENV = "production"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[redirects]]
+  from = "/kontakt-und-honorar"
+  to = "/kontakt"
+  status = 301
+
+[[redirects]]
+  from = "/unser-angebot"
+  to = "/angebot"
+  status = 301

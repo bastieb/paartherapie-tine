@@ -1,0 +1,34 @@
+[[main]]
+  name = "Startseite"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Über uns"
+  pageRef = "ueber-uns"
+  weight = 20
+
+[[main]]
+  name = "Angebot"
+  pageRef = "angebot"
+  weight = 30
+
+[[main]]
+  name = "Programm 2026"
+  pageRef = "programm-2026"
+  weight = 40
+
+[[main]]
+  name = "Kontakt & Honorar"
+  pageRef = "kontakt"
+  weight = 50
+
+[[footer]]
+  name = "Impressum"
+  pageRef = "impressum"
+  weight = 10
+
+[[footer]]
+  name = "Datenschutz"
+  pageRef = "datenschutz"
+  weight = 20

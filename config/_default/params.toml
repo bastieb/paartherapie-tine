@@ -1,0 +1,58 @@
+colorScheme = "slate"
+defaultAppearance = "light"
+autoSwitchAppearance = false
+
+enableSearch = true
+enableCodeCopy = false
+enableStructuredBreadcrumbs = false
+
+mainSections = []
+
+disableImageOptimization = false
+disableTextInHeader = false
+
+defaultBackgroundImage = "img/hero-bg.jpg"
+
+highlightCurrentMenuArea = true
+smartTOC = false
+
+[header]
+  layout = "fixed"
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = false
+  showScrollToTop = true
+
+[homepage]
+  layout = "background"
+  homepageImage = "img/hero-bg.jpg"
+  showRecent = false
+  layoutBackgroundBlur = true
+
+[article]
+  showDate = false
+  showAuthor = false
+  showHero = true
+  heroStyle = "background"
+  layoutBackgroundBlur = true
+  layoutBackgroundHeaderSpace = true
+  showBreadcrumbs = false
+  showDraftLabel = false
+  showEdit = false
+  showReadingTime = false
+  showTableOfContents = false
+  showRelatedContent = false
+  showPagination = false
+
+[list]
+  showBreadcrumbs = false
+  showTableOfContents = false
+  showSummary = true
+  groupByYear = false
+  cardView = true
+
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]
