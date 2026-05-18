@@ -1,17 +1,71 @@
 ---
 title: "Über uns"
-description: "Lernen Sie unser therapeutisches Team kennen."
+description: "Lernen Sie unser therapeutisches Team kennen – Christine Gäbel und Samantha Lang."
 heroStyle: "background"
 showHero: true
+featureimage: "img/praxis-1.jpg"
+featureimagecaption: "© Nina Tamura"
 ---
 
-## Unser Team
+Wir sind ein zweiköpfiges therapeutisches Team und freuen uns, Sie auf Ihrem Weg zu begleiten. Offenheit, Wertschätzung und Vertraulichkeit sind die Grundlage unserer Arbeit – mit Menschen jeden Alters, aller Geschlechtsidentitäten und Beziehungsmodelle.
 
-Wir sind ein therapeutisches Team mit langjähriger Erfahrung in systemischer Einzel-, Paar- und Sexualtherapie. Unsere Praxis befindet sich im Herzen von Heidelberg, in der St.-Anna-Gasse 5.
+---
 
-### Unser Ansatz
+<div style="display:flex;gap:2.5rem;flex-wrap:wrap;align-items:flex-start;margin:2rem 0;">
+<div style="flex:0 0 200px;">
+<img src="/img/portrait-christine.jpg" alt="Christine Gäbel" style="width:200px;border-radius:8px;margin:0;">
+</div>
+<div style="flex:1;min-width:260px;">
 
-Wir arbeiten systemisch – das bedeutet, wir betrachten Menschen immer in ihrem Beziehungskontext. Probleme entstehen nicht "in" einer Person, sondern im Zusammenspiel von Menschen, Erwartungen und Erfahrungen.
+## Christine Gäbel
+
+**M.A. Musiktherapie · B.Sc. Gesundheitsmanagement**
+
+Christine Gäbel ist systemische Therapeutin und Beraterin (DGSF), Sexualtherapeutin, Paartherapeutin und Mediatorin. Zusätzlich ist sie als Arbeits- und Organisationsberaterin (Einzel- und Teamsupervision, Begleitung von Teamentwicklungsprozessen) tätig.
+
+Sie war wissenschaftliche Mitarbeiterin an der Universität Heidelberg mit Schwerpunkten in den Bereichen Depression und Krebs.
+
+**Qualifikationen:**
+- Systemische Therapeutin & Beraterin (DGSF)
+- Sexualtherapeutin
+- Paartherapeutin
+- Mediatorin
+- Arbeits- und Organisationsberaterin
+
+</div>
+</div>
+
+---
+
+<div style="display:flex;gap:2.5rem;flex-wrap:wrap;align-items:flex-start;margin:2rem 0;">
+<div style="flex:0 0 200px;">
+<img src="/img/portrait-samantha.jpeg" alt="Samantha Lang" style="width:200px;border-radius:8px;margin:0;">
+</div>
+<div style="flex:1;min-width:260px;">
+
+## Samantha Lang
+
+**Psychotherapie (HPP)**
+
+Samantha Lang ist systemische Therapeutin und Beraterin (DGSF) sowie Sexualtherapeutin in Ausbildung. Sie arbeitet in der Einzel- und Paartherapie sowie als psychologische Beraterin, Kinder- und Jugendcoach und in der aufsuchenden Familienhilfe (Beratung, Therapie).
+
+Vor ihrer therapeutischen Tätigkeit war sie als Gymnasiallehrerin tätig.
+
+**Qualifikationen:**
+- Systemische Therapeutin & Beraterin (DGSF)
+- Sexualtherapeutin (i.A.)
+- Psychologische Beraterin
+- Kinder- und Jugendcoach
+- Ehem. Gymnasiallehrerin
+
+</div>
+</div>
+
+---
+
+## Unser Ansatz
+
+Wir arbeiten systemisch-konstruktivistisch – das bedeutet, wir betrachten Menschen immer in ihrem Beziehungskontext und berücksichtigen die Wechselwirkungen in sozialen Beziehungen. Unsere Haltung ist lösungsorientiert und ressourcenfokussiert.
 
 In unserer Arbeit legen wir Wert auf:
 
@@ -20,10 +74,8 @@ In unserer Arbeit legen wir Wert auf:
 - **Lösungsorientierung** – Wir schauen auf Ressourcen und Möglichkeiten, nicht nur auf Probleme.
 - **Offenheit** – Wir arbeiten mit Menschen aller Altersgruppen, Geschlechtsidentitäten und Beziehungsmodelle.
 
-### Qualifikation & Ausbildung
-
-Unser Team verfügt über qualifizierte Ausbildungen in systemischer Therapie und Beratung sowie spezialisierte Weiterbildungen in Paar- und Sexualtherapie. Wir bilden uns kontinuierlich fort, um Ihnen die bestmögliche Unterstützung zu bieten.
-
 ### Praxisräume
 
 Unsere Praxis liegt zentral in der **St.-Anna-Gasse 5, 69115 Heidelberg**. Bitte beachten Sie, dass der Zugang über eine Treppe führt. Auf Wunsch bieten wir auch Videositzungen an.
+
+![Blick in unseren Therapieraum](/img/praxis-2.jpg "© Nina Tamura")

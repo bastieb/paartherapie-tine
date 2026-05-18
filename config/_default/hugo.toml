@@ -1,6 +1,7 @@
 theme = "blowfish"
 baseURL = "https://paartherapie-heidelberg.netlify.app"
 defaultContentLanguage = "de"
+defaultContentLanguageInSubdir = false
 
 enableRobotsTXT = true
 summaryLength = 30

@@ -11,7 +11,7 @@ mainSections = []
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "img/hero-bg.jpg"
+defaultBackgroundImage = "img/praxis-1.jpg"
 
 highlightCurrentMenuArea = true
 smartTOC = false
@@ -28,7 +28,7 @@ smartTOC = false
 
 [homepage]
   layout = "background"
-  homepageImage = "img/hero-bg.jpg"
+  homepageImage = "img/praxis-1.jpg"
   showRecent = false
   layoutBackgroundBlur = true
 
@@ -53,6 +53,8 @@ smartTOC = false
   showSummary = true
   groupByYear = false
   cardView = true
+  showHero = true
+  heroStyle = "background"
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]

@@ -1,0 +1,17 @@
+locale = "en"
+label = "English"
+weight = 2
+languageCode = "en"
+title = "Couples Therapy Heidelberg"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "January 2, 2006"
+  description = "Individual, couples and sex therapy in Heidelberg – systemic counselling in a confidential setting."
+
+[params.author]
+  name = "Couples Therapy Heidelberg"
+  headline = "Individual, Couples & Sex Therapy in Heidelberg"
+  bio = "We support you through every phase of your relationship – compassionate, professional and confidential."

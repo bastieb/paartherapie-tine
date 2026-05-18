@@ -3,6 +3,8 @@ title: "Kontakt & Honorar"
 description: "Kontaktformular, Preise und Anfahrt zur Praxis in Heidelberg."
 showHero: true
 heroStyle: "background"
+featureimage: "img/praxis-2.jpg"
+featureimagecaption: "© Nina Tamura"
 ---
 
 ## Kontakt aufnehmen
