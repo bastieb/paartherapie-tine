@@ -42,7 +42,7 @@ Wir bieten Ihnen ein **kostenloses 10-minütiges Telefongespräch** an, um gemei
       <option value="Einzeltherapie">Einzeltherapie</option>
       <option value="Sexualtherapie">Sexualtherapie</option>
       <option value="Workshop 2026">Workshop 2026</option>
-      <option value="Erstgespräch">Kostenloses Erstgespräch</option>
+      <option value="Telefonat">Kostenloses Telefonat anfragen</option>
     </select>
   </div>
   <div style="margin-bottom:1rem;">
@@ -51,7 +51,7 @@ Wir bieten Ihnen ein **kostenloses 10-minütiges Telefongespräch** an, um gemei
       style="width:100%;padding:.6rem .8rem;border:1px solid #ccc;border-radius:6px;font-size:1rem;"></textarea>
   </div>
   <button type="submit"
-    style="background:#64748b;color:#fff;padding:.7rem 1.6rem;border:none;border-radius:6px;font-size:1rem;cursor:pointer;">
+    style="background:#0D8A91;color:#fff;padding:.7rem 1.6rem;border:none;border-radius:6px;font-size:1rem;cursor:pointer;">
     Nachricht senden
   </button>
 </form>

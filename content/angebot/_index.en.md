@@ -53,5 +53,5 @@ Sexual needs change throughout life. When different desires become a source of t
 ---
 
 {{< button href="/en/kontakt" target="_self" >}}
-Request a free initial consultation
+Request a free phone call
 {{< /button >}}

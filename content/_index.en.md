@@ -12,5 +12,5 @@ We offer a **free 10-minute phone consultation** to explore together whether cou
 We work with people of all ages, gender identities, relationship structures and personal circumstances.
 
 {{< button href="/en/kontakt" target="_self" >}}
-Get in touch
+Request a free phone call
 {{< /button >}}

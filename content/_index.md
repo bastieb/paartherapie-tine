@@ -12,5 +12,5 @@ Wir bieten Ihnen ein **gratis 10-minütiges Telefongespräch**, um gemeinsam zu 
 Wir arbeiten mit Menschen jeden Alters, aller Geschlechtsidentitäten, Beziehungsmodelle und Lebensumstände.
 
 {{< button href="/kontakt" target="_self" >}}
-Jetzt Kontakt aufnehmen
+Kostenloses Telefonat anfragen
 {{< /button >}}

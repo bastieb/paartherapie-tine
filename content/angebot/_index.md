@@ -53,5 +53,5 @@ Sexuelle Bedürfnisse verändern sich im Laufe des Lebens. Wenn unterschiedliche
 ---
 
 {{< button href="/kontakt" target="_self" >}}
-Kostenloses Erstgespräch anfragen
+Kostenloses Telefonat anfragen
 {{< /button >}}

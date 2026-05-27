@@ -42,7 +42,7 @@ We offer a **free 10-minute phone consultation** to explore together whether our
       <option value="Individual Therapy">Individual Therapy</option>
       <option value="Sex Therapy">Sex Therapy</option>
       <option value="Workshop 2026">Workshop 2026</option>
-      <option value="Initial Consultation">Free Initial Consultation</option>
+      <option value="Phone Call">Free Phone Call</option>
     </select>
   </div>
   <div style="margin-bottom:1rem;">
@@ -51,7 +51,7 @@ We offer a **free 10-minute phone consultation** to explore together whether our
       style="width:100%;padding:.6rem .8rem;border:1px solid #ccc;border-radius:6px;font-size:1rem;"></textarea>
   </div>
   <button type="submit"
-    style="background:#64748b;color:#fff;padding:.7rem 1.6rem;border:none;border-radius:6px;font-size:1rem;cursor:pointer;">
+    style="background:#0D8A91;color:#fff;padding:.7rem 1.6rem;border:none;border-radius:6px;font-size:1rem;cursor:pointer;">
     Send message
   </button>
 </form>
