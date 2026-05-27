@@ -53,7 +53,8 @@ smartTOC = false
   showSummary = true
   groupByYear = false
   cardView = true
-  showHero = false
+  showHero = true
+  heroStyle = "basic"
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
