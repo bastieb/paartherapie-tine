@@ -2,7 +2,7 @@ colorScheme = "petrol"
 defaultAppearance = "light"
 autoSwitchAppearance = false
 
-enableSearch = true
+enableSearch = false
 enableCodeCopy = false
 enableStructuredBreadcrumbs = false
 
@@ -53,8 +53,7 @@ smartTOC = false
   showSummary = true
   groupByYear = false
   cardView = true
-  showHero = true
-  heroStyle = "background"
+  showHero = false
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
