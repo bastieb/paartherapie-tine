@@ -2,6 +2,7 @@
 title: "Datenschutzhinweise"
 description: "Informationen zum Datenschutz gemäß DSGVO."
 showHero: false
+robots: "noindex, nofollow"
 ---
 
 ## Datenschutzerklärung

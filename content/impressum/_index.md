@@ -2,6 +2,7 @@
 title: "Impressum"
 description: "Rechtliche Angaben zur Praxis."
 showHero: false
+robots: "noindex, nofollow"
 ---
 
 ## Angaben gemäß § 5 TMG

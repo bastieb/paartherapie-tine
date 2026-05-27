@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-description: "Meet our therapeutic team – Christine Gäbel and Samantha Lang."
+description: "Christine Gäbel and Samantha Lang – couples, individual and sex therapists in Heidelberg. Systemic, confidential, professional."
 heroStyle: "background"
 showHero: true
 featureimage: "img/praxis-1.jpg"

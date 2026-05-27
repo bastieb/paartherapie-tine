@@ -1,6 +1,6 @@
 ---
 title: "Kontakt & Honorar"
-description: "Kontaktformular, Preise und Anfahrt zur Praxis in Heidelberg."
+description: "Kontakt zur Paartherapie Heidelberg: kostenloses Telefonat anfragen, Honorarübersicht und Praxisadresse in der St.-Anna-Gasse 5."
 showHero: true
 heroStyle: "background"
 featureimage: "img/praxis-2.jpg"

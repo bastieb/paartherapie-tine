@@ -1,6 +1,6 @@
 ---
 title: "Über uns"
-description: "Lernen Sie unser therapeutisches Team kennen – Christine Gäbel und Samantha Lang."
+description: "Christine Gäbel und Samantha Lang – Paar-, Einzel- und Sexualtherapeutinnen in Heidelberg. Systemisch, vertraulich, professionell."
 heroStyle: "background"
 showHero: true
 featureimage: "img/praxis-1.jpg"

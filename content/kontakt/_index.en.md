@@ -1,6 +1,6 @@
 ---
 title: "Contact & Fees"
-description: "Contact form, fees and directions to the practice in Heidelberg."
+description: "Contact Couples Therapy Heidelberg: request a free phone call, view fees and find us at St.-Anna-Gasse 5."
 showHero: true
 heroStyle: "background"
 featureimage: "img/praxis-2.jpg"

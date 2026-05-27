@@ -2,6 +2,7 @@
 title: "Privacy Policy"
 description: "Information on data protection in accordance with GDPR."
 showHero: false
+robots: "noindex, nofollow"
 ---
 
 ## Privacy Policy

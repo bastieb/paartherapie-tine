@@ -1,6 +1,6 @@
 ---
 title: "Programme 2026"
-description: "Workshops and group sessions for women, men and couples."
+description: "Workshops 2026 in Heidelberg: women's, men's and couples' workshops in small groups. Register now."
 showHero: true
 heroStyle: "background"
 ---

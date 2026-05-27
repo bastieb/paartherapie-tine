@@ -2,6 +2,7 @@
 title: "Legal Notice"
 description: "Legal information about the practice."
 showHero: false
+robots: "noindex, nofollow"
 ---
 
 ## Information pursuant to § 5 TMG
