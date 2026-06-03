@@ -5,11 +5,13 @@ description: "Individual, couples and sex therapy in Heidelberg – systemic cou
 
 ## Welcome
 
-Relationships go through harmonious and challenging phases – that is perfectly normal. Sexual needs also change and develop throughout life. If you feel stuck or would like support, we warmly invite you to speak with us.
+Relationships go through harmonious and challenging phases – that is perfectly normal. Sexual needs, desires and questions also change throughout life. If you feel that you are not making progress – on your own or together – we warmly invite you to start a conversation with us.
 
-We offer a **free 10-minute phone consultation** to explore together whether couples and/or sex therapy is right for you.
+In our practice we support people in a wide range of relationship constellations and life situations. We work with appreciation, confidentiality and an open mind, offering a protected space in which personal, relational and sexual topics can be discussed openly. We understand therapy as a shared process: with questions, perspectives and methodical approaches, we help you find your own answers and develop solutions that truly fit.
 
-We work with people of all ages, gender identities, relationship structures and personal circumstances.
+Our services are aimed at individuals, couples and other relationship constellations. We work with people of all ages, gender identities, sexual orientations and relationship models. Whether you come as a couple, would like to explore a relationship topic on your own, or bring questions around sexuality, we look together at which setting suits your needs.
+
+To get started, we offer you a **free 10-minute phone call**. In this first contact we can briefly clarify what it is about, whether our services might be right for you, and what a possible next step could look like. The way we work together then follows your concern, your pace and your possibilities.
 
 {{< button href="/en/kontakt" target="_self" >}}
 Request a free phone call

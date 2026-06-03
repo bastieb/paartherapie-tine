@@ -38,11 +38,11 @@ We offer a **free 10-minute phone consultation** to explore together whether our
     <select id="subject" name="subject"
       style="width:100%;padding:.6rem .8rem;border:1px solid #ccc;border-radius:6px;font-size:1rem;">
       <option value="">Please select …</option>
-      <option value="Couples Therapy">Couples Therapy</option>
       <option value="Individual Therapy">Individual Therapy</option>
-      <option value="Sex Therapy">Sex Therapy</option>
-      <option value="Workshop 2026">Workshop 2026</option>
+      <option value="Multi-Person Therapy">Multi-Person Therapy</option>
+      <option value="Workshop">Workshop</option>
       <option value="Phone Call">Free Phone Call</option>
+      <option value="Other">Other</option>
     </select>
   </div>
   <div style="margin-bottom:1rem;">

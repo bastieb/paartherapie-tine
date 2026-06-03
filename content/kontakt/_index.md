@@ -38,11 +38,11 @@ Wir bieten Ihnen ein **kostenloses 10-minütiges Telefongespräch** an, um gemei
     <select id="subject" name="subject"
       style="width:100%;padding:.6rem .8rem;border:1px solid #ccc;border-radius:6px;font-size:1rem;">
       <option value="">Bitte wählen …</option>
-      <option value="Paartherapie">Paartherapie</option>
       <option value="Einzeltherapie">Einzeltherapie</option>
-      <option value="Sexualtherapie">Sexualtherapie</option>
-      <option value="Workshop 2026">Workshop 2026</option>
-      <option value="Telefonat">Kostenloses Telefonat anfragen</option>
+      <option value="Mehrpersonentherapie">Mehrpersonentherapie</option>
+      <option value="Workshop">Workshop</option>
+      <option value="Telefonat">Kostenloses Telefonat</option>
+      <option value="Sonstiges">Sonstiges</option>
     </select>
   </div>
   <div style="margin-bottom:1rem;">

@@ -5,7 +5,27 @@ showHero: true
 heroStyle: "background"
 ---
 
-We support you through all stages of life – whether as an individual, a couple or in a particular life situation. Our services focus on three areas.
+We support you through all stages of life – whether as an individual, a couple or in a particular life situation.
+
+## Couples and Sex Therapy
+
+Relationships can come under pressure at different stages of life. In our couples and sex therapy we offer a protected space in which you can openly address conflicts, recurring patterns, uncertainties or questions about closeness, intimacy and sexuality. Couples therapy and sex therapy do not always, but often go hand in hand. The aim is to foster mutual understanding, develop new perspectives and find coherent ways of dealing with current challenges together.
+
+Your own questions, experiences and goals are at the centre of this work. Through focused questions, we support you in better understanding connections, making stuck dynamics visible and developing fitting strategies for change. Depending on your concern, both relationship topics and aspects of sexuality, communication, trust, hurts or differing needs can be given space.
+
+### Individual and Multi-Person Setting
+
+It is not always necessary for everyone involved to be present for helpful therapeutic work to take place. Some concerns are best addressed in a couples setting, while others first benefit from individual sessions or from conversations in a multi-person setting. An individual setting can also run in parallel to multi-person therapy; here it is important that all parties involved receive roughly equal space for individual sessions alongside the shared work. Together we look at which format makes sense for your concern in any given moment.
+
+Relationship topics, sexual questions or personal patterns can also be worked on in individual sessions. Multi-person settings can be helpful when several people are to be involved or when different perspectives need their own space. All relationship models are welcome, and our approach is guided by your concrete life situation.
+
+### How It Works
+
+The first session is usually about clarifying your topics, concerns and goals. We gather what matters to you, what you would like to change and what task this creates for our shared work. This provides an initial orientation for the further process.
+
+In the following sessions, individual topics can be explored in more depth. Typically, we support you with questions to help you find your own answers and develop sustainable solutions together. Where it fits, we additionally work with practical exercises in the room or with materials. These methods are always to be understood as an offer: you decide for yourself what suits you and what you would like to accept or decline.
+
+How often the sessions take place and at what intervals they make sense is something you help decide. The therapeutic process follows your concern, your pace and your possibilities. Sometimes a few conversations are enough to gain clarity; in other cases, longer support is helpful.
 
 ---
 

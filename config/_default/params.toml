@@ -9,7 +9,9 @@ enableStructuredBreadcrumbs = false
 mainSections = []
 
 disableImageOptimization = false
-disableTextInHeader = false
+disableTextInHeader = true
+
+logo = "img/home-icon.svg"
 
 defaultBackgroundImage = "img/praxis-1.jpg"
 defaultSocialImage = "img/praxis-1.jpg"

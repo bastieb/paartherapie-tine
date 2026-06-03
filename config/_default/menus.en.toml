@@ -1,6 +1,6 @@
 [[main]]
-  name = "Home"
-  pageRef = "/"
+  name = "Services"
+  pageRef = "angebot"
   weight = 10
 
 [[main]]
@@ -9,13 +9,13 @@
   weight = 20
 
 [[main]]
-  name = "Services"
-  pageRef = "angebot"
+  name = "Programme 2026"
+  pageRef = "programm-2026"
   weight = 30
 
 [[main]]
-  name = "Programme 2026"
-  pageRef = "programm-2026"
+  name = "Getting Here"
+  pageRef = "anfahrt"
   weight = 40
 
 [[main]]

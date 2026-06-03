@@ -1,0 +1,32 @@
+{{- /* DSGVO-konforme 2-Klick-Karte: Google Maps wird erst nach aktivem Klick geladen. */ -}}
+{{- $id := printf "consentmap-%d" .Ordinal -}}
+{{- $query := .Get "query" | default "St.-Anna-Gasse 5, 69115 Heidelberg" -}}
+{{- $title := .Get "title" | default "Standort der Praxis" -}}
+{{- $button := .Get "button" | default "Karte laden" -}}
+{{- $note := .Get "note" | default "Mit dem Klick auf „Karte laden“ werden Inhalte von Google Maps geladen. Dabei werden Daten an Google übertragen. Details finden Sie in unserer Datenschutzerklärung." -}}
+{{- $height := .Get "height" | default "420" -}}
+{{- $src := printf "https://www.google.com/maps?%s&output=embed" (querify "q" $query) -}}
+<div id="{{ $id }}" class="consentmap" style="margin:1.5rem 0;border:1px solid #d7dcdd;border-radius:10px;overflow:hidden;">
+  <div class="consentmap__placeholder" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.9rem;text-align:center;min-height:{{ $height }}px;padding:1.75rem;background:#f1f5f5;">
+    <strong style="font-size:1.05rem;color:#0D8A91;">{{ $title }}</strong>
+    <p style="max-width:34rem;margin:0;font-size:.9rem;line-height:1.5;color:#444;">{{ $note }}</p>
+    <button type="button" data-consentmap-load
+      style="background:#0D8A91;color:#fff;padding:.65rem 1.5rem;border:none;border-radius:6px;font-size:1rem;cursor:pointer;">
+      {{ $button }}
+    </button>
+  </div>
+</div>
+<script>
+  (function () {
+    var c = document.getElementById("{{ $id }}");
+    if (!c) return;
+    var btn = c.querySelector("[data-consentmap-load]");
+    if (!btn) return;
+    btn.addEventListener("click", function () {
+      c.innerHTML =
+        '<iframe src="{{ $src | safeURL }}" width="100%" height="{{ $height }}" ' +
+        'style="border:0;display:block;" loading="lazy" allowfullscreen ' +
+        'referrerpolicy="no-referrer-when-downgrade" title="{{ $title }}"></iframe>';
+    });
+  })();
+</script>
