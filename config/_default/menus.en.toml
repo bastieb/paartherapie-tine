@@ -23,6 +23,11 @@
   pageRef = "kontakt"
   weight = 50
 
+[[main]]
+  name = "Book Appointment"
+  pageRef = "termin-buchen"
+  weight = 60
+
 [[footer]]
   name = "Legal Notice"
   pageRef = "impressum"
