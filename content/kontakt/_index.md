@@ -17,7 +17,7 @@ Wir bieten Ihnen ein **kostenloses 10-minütiges Telefongespräch** an, um gemei
 
 ## Kontaktformular
 
-<form action="https://formspree.io/f/XXXXXXXX" method="POST" style="max-width:560px;">
+<form action="https://formspree.io/f/mykqzpnp" method="POST" style="max-width:560px;">
   <div style="margin-bottom:1rem;">
     <label for="name" style="display:block;margin-bottom:.3rem;font-weight:600;">Name</label>
     <input type="text" id="name" name="name" required

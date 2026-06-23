@@ -11,7 +11,7 @@ mainSections = []
 disableImageOptimization = false
 disableTextInHeader = true
 
-logo = "img/home-icon.svg"
+logo = "img/logo.png"
 
 defaultBackgroundImage = "img/praxis-1.jpg"
 defaultSocialImage = "img/praxis-1.jpg"

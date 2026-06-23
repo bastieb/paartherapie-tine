@@ -7,7 +7,7 @@ description: "Einzel-, Paar- und Sexualtherapie in Heidelberg – systemische Be
 
 Beziehungen durchlaufen harmonische und herausfordernde Phasen – das ist ganz normal. Auch sexuelle Bedürfnisse, Wünsche und Fragen verändern sich im Laufe des Lebens. Wenn Sie das Gefühl haben, dass Sie allein oder gemeinsam nicht weiterkommen, laden wir Sie herzlich ein, mit uns ins Gespräch zu kommen.
 
-In unserer Praxis begleiten wir Menschen in unterschiedlichen Beziehungskonstellationen und Lebenssituationen. Wir arbeiten wertschätzend, vertraulich und ergebnisoffen und bieten einen geschützten Rahmen, in dem persönliche, partnerschaftliche und sexuelle Themen offen besprochen werden können. Dabei verstehen wir Therapie als gemeinsamen Prozess: Wir unterstützen Sie mit Fragen, Perspektiven und methodischen Angeboten dabei, eigene Antworten zu finden und stimmige Lösungswege zu entwickeln.
+In unserer Praxis sind Menschen aller sexuellen Orientierungen, Geschlechtsidentitäten, kulturellen Hintergründe, Religionen und Lebensweisen gleichermaßen willkommen. Wir arbeiten wertschätzend, vertraulich und ergebnisoffen und bieten einen geschützten Rahmen, in dem persönliche, partnerschaftliche und sexuelle Themen offen besprochen werden können. Dabei verstehen wir Therapie als gemeinsamen Prozess: Wir unterstützen Sie mit Fragen, Perspektiven und methodischen Angeboten dabei, eigene Antworten zu finden und stimmige Lösungswege zu entwickeln.
 
 Unser Angebot richtet sich an Einzelpersonen, Paare und weitere Beziehungskonstellationen. Wir arbeiten mit Menschen jeden Alters, aller Geschlechtsidentitäten, sexuellen Orientierungen und Beziehungsmodelle. Unabhängig davon, ob Sie als Paar kommen, allein ein Beziehungsthema klären möchten oder Fragen rund um Sexualität mitbringen, schauen wir gemeinsam, welches Setting für Ihr Anliegen passend ist.
 
@@ -16,3 +16,7 @@ Zum Einstieg bieten wir Ihnen ein **gratis 10-minütiges Telefongespräch** an. 
 {{< button href="/kontakt" target="_self" >}}
 Kostenloses Telefonat anfragen
 {{< /button >}}
+
+<p style="text-align:center; margin-top:3rem;">
+  <img src="/img/progress-pride-flag.jpg" alt="Progress-Pride-Flagge – bei uns sind alle willkommen" style="display:inline-block; width:100%; max-width:300px; height:auto; border-radius:10px; box-shadow:0 4px 16px rgba(0,0,0,0.12);" loading="lazy" />
+</p>

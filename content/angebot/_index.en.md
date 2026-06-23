@@ -5,73 +5,47 @@ showHero: true
 heroStyle: "background"
 ---
 
-We support you through all stages of life – whether as an individual, a couple or in a particular life situation.
+In our practice we offer therapeutic support for individuals, couples and conversations involving several participants. Together we look at which format best suits your concern, your current situation and your goals.
 
-## Couples and Sex Therapy
+## Formats
 
-Relationships can come under pressure at different stages of life. In our couples and sex therapy we offer a protected space in which you can openly address conflicts, recurring patterns, uncertainties or questions about closeness, intimacy and sexuality. Couples therapy and sex therapy do not always, but often go hand in hand. The aim is to foster mutual understanding, develop new perspectives and find coherent ways of dealing with current challenges together.
+**Individual sessions** offer space for personal topics, relationship experiences, situations of separation, questions of intimacy and sexuality, or recurring patterns. They are suitable when you first want to gain clarity for yourself, sort through what is weighing on you, or expand your own options for action.
 
-Your own questions, experiences and goals are at the centre of this work. Through focused questions, we support you in better understanding connections, making stuck dynamics visible and developing fitting strategies for change. Depending on your concern, both relationship topics and aspects of sexuality, communication, trust, hurts or differing needs can be given space.
+**Couple sessions** are for people who want to understand their relationship better, work through conflicts, change the way they communicate, or address topics such as closeness, distance, trust, hurt or sexuality.
 
-### Individual and Multi-Person Setting
+**Conversations involving several participants** can be helpful when more than one person is part of a process of clarification or change. Together we examine whether such a setting is helpful and appropriate for your concern.
 
-It is not always necessary for everyone involved to be present for helpful therapeutic work to take place. Some concerns are best addressed in a couples setting, while others first benefit from individual sessions or from conversations in a multi-person setting. An individual setting can also run in parallel to multi-person therapy; here it is important that all parties involved receive roughly equal space for individual sessions alongside the shared work. Together we look at which format makes sense for your concern in any given moment.
+## Topics
 
-Relationship topics, sexual questions or personal patterns can also be worked on in individual sessions. Multi-person settings can be helpful when several people are to be involved or when different perspectives need their own space. All relationship models are welcome, and our approach is guided by your concrete life situation.
+Among others, the following topics may find space in the sessions:
 
-### How It Works
+- Recurring conflicts and entrenched communication patterns.
+- Questions of closeness, distance, attachment and trust.
+- Sexuality, intimacy and differing needs.
+- Crises, transitions and changes over the course of life.
+- Hurt, ambivalence, outside relationships or thoughts of separation.
+- Personal topics that affect relationship and partnership.
 
-The first session is usually about clarifying your topics, concerns and goals. We gather what matters to you, what you would like to change and what task this creates for our shared work. This provides an initial orientation for the further process.
+What matters is not whether a concern seems "serious enough", but whether you wish to understand, change or shape something more consciously.
 
-In the following sessions, individual topics can be explored in more depth. Typically, we support you with questions to help you find your own answers and develop sustainable solutions together. Where it fits, we additionally work with practical exercises in the room or with materials. These methods are always to be understood as an offer: you decide for yourself what suits you and what you would like to accept or decline.
+## How it works
 
-How often the sessions take place and at what intervals they make sense is something you help decide. The therapeutic process follows your concern, your pace and your possibilities. Sometimes a few conversations are enough to gain clarity; in other cases, longer support is helpful.
+The first session focuses on clarifying the assignment. We discuss your concern, clarify expectations and goals, and look together at which framework makes sense for the ongoing work.
 
----
+In the following sessions we work specifically on the topics you bring. At the beginning of a session, current concerns can be named and prioritised; at the end of a session, concrete suggestions, exercises or impulses for everyday life can be agreed upon, which you can try out between sessions.
 
-## Couples Therapy
+## Our role
 
-Relationships need care. When communication breaks down, conflicts repeat themselves, or trust has been shaken, couples therapy can help find new paths forward.
+We understand therapeutic work as a shared collaboration. We accompany the process with questions, structure, professional input and new perspectives; putting things into practice in your everyday life is up to you.
 
-**Common topics in couples therapy:**
+Our aim is to strengthen and empower you as best we can, and to support you in your own development.
 
-- Building mutual appreciation and trust
-- Establishing healthy communication patterns
-- Developing constructive approaches to conflict
-- Processing infidelity and breaches of trust
-- Exploring different relationship structures
-- Redesigning the partnership
-- Support when facing separation
+## Organisational framework
 
-The first session in couples therapy typically involves both partners meeting with two therapists.
-
----
-
-## Individual Therapy
-
-Sometimes you want to explore personal topics on your own first – before or instead of joint couples therapy. Individual therapy gives you space for your own story, your wishes and your personal development.
+The frequency, intervals and overall duration of the support are flexible and depend on your concern and your goals. Together we find what fits you.
 
 ---
 
-## Sex Therapy
-
-Sexual needs change throughout life. When different desires become a source of tension, or difficulties arise that are hard to talk about, sex therapy provides a helpful framework.
-
-**Topics in sex therapy:**
-
-- Sexual dysfunction (e.g. erectile difficulties, pain disorders)
-- Mismatched desire and libido in the relationship
-- Rediscovering intimacy and eroticism
-- Rebuilding trust after an affair
-- Integrating individual fantasies into the partnership
-- Pornography use and differing expectations
-- Processing sexual trauma
-- Performance anxiety
-
-**Important note:** Our practice does not engage in any practical sexual activities. Where helpful, therapists may suggest exercises to practise at home.
-
----
-
-{{< button href="/en/kontakt" target="_self" >}}
+{{< button href="/kontakt" target="_self" >}}
 Request a free phone call
 {{< /button >}}
