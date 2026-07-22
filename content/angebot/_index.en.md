@@ -47,5 +47,5 @@ The frequency, intervals and overall duration of the support are flexible and de
 ---
 
 {{< button href="/kontakt" target="_self" >}}
-Request a free phone call
+Contact request
 {{< /button >}}

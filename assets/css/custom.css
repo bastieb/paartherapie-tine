@@ -1,0 +1,6 @@
+/* Logo im Header doppelt so groß (Standard Blowfish: max-h-20/max-w-20 = 5rem) */
+header .logo,
+.main-menu .logo {
+  max-height: 10rem !important;
+  max-width: 10rem !important;
+}

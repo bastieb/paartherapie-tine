@@ -39,6 +39,7 @@ Wir bieten Ihnen ein **kostenloses 10-minütiges Telefongespräch** an, um gemei
       style="width:100%;padding:.6rem .8rem;border:1px solid #ccc;border-radius:6px;font-size:1rem;">
       <option value="">Bitte wählen …</option>
       <option value="Einzeltherapie">Einzeltherapie</option>
+      <option value="Paartherapie">Paartherapie</option>
       <option value="Mehrpersonentherapie">Mehrpersonentherapie</option>
       <option value="Workshop">Workshop</option>
       <option value="Telefonat">Kostenloses Telefonat</option>
@@ -85,4 +86,4 @@ Sollte unser Honorar Ihr Budget übersteigen, sprechen Sie uns gerne trotzdem an
 
 - Sitzungen sind auf Wunsch auch per **Videotelefonie** möglich.
 - Der Zugang zur Praxis erfolgt über eine **Treppe**.
-- Die erste Paartherapiesitzung findet in der Regel mit **beiden Partnern und zwei Therapeutinnen** statt.
+- Paartherapiesitzungen können auf Nachfrage mit **beiden Therapeutinnen** durchgeführt werden – mit entsprechender Anpassung des Honorars.

@@ -39,6 +39,7 @@ We offer a **free 10-minute phone consultation** to explore together whether our
       style="width:100%;padding:.6rem .8rem;border:1px solid #ccc;border-radius:6px;font-size:1rem;">
       <option value="">Please select …</option>
       <option value="Individual Therapy">Individual Therapy</option>
+      <option value="Couples Therapy">Couples Therapy</option>
       <option value="Multi-Person Therapy">Multi-Person Therapy</option>
       <option value="Workshop">Workshop</option>
       <option value="Phone Call">Free Phone Call</option>
@@ -85,4 +86,4 @@ If our fees exceed your budget, please do not hesitate to contact us – we will
 
 - Sessions are available via **video call** on request.
 - The practice entrance requires climbing **stairs**.
-- The first couples therapy session typically involves **both partners and two therapists**.
+- Couples therapy sessions can be conducted with **both therapists** on request – with a corresponding adjustment of the fee.

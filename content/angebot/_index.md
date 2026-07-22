@@ -47,5 +47,5 @@ Häufigkeit, Abstände und Gesamtdauer der Begleitung richten sich flexibel nach
 ---
 
 {{< button href="/kontakt" target="_self" >}}
-Kostenloses Telefonat anfragen
+Kontaktanfrage
 {{< /button >}}
