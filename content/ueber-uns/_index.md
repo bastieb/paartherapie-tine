@@ -53,6 +53,7 @@ Vor ihrer therapeutischen Tätigkeit war sie als Gymnasiallehrerin tätig.
 
 **Qualifikationen:**
 - Systemische Therapeutin & Beraterin (DGSF)
+- Paartherapeutin
 - Sexualtherapeutin (i.A.)
 - Psychologische Beraterin
 - Kinder- und Jugendcoach
