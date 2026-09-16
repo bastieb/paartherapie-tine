@@ -1,5 +1,5 @@
 theme = "blowfish"
-baseURL = "https://paartherapie-heidelberg.netlify.app"
+baseURL = "https://heidelberg-paartherapie.de/"
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = false
 
