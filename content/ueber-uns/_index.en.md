@@ -53,6 +53,7 @@ Before her therapeutic career, she worked as a secondary school teacher.
 
 **Qualifications:**
 - Systemic Therapist & Counsellor (DGSF)
+- Couples Therapist
 - Sex Therapist (in training)
 - Psychological Counsellor
 - Children & Adolescent Coach
