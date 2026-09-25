@@ -17,20 +17,20 @@ Wir sind ein zweiköpfiges therapeutisches Team und freuen uns, Sie auf Ihrem We
 </div>
 <div style="flex:1;min-width:260px;">
 
-## Christine Gäbel
+## Dr. Christine Gäbel
 
-**M.A. Musiktherapie · B.Sc. Gesundheitsmanagement**
+**Dr. sc. hum. · M.A. Musiktherapie · B.Sc. Gesundheitsmanagement**
 
-Christine Gäbel ist systemische Therapeutin und Beraterin (DGSF), Sexualtherapeutin, Paartherapeutin und Mediatorin. Zusätzlich ist sie als Arbeits- und Organisationsberaterin (Einzel- und Teamsupervision, Begleitung von Teamentwicklungsprozessen) tätig.
+Christine Gäbel ist systemische Therapeutin und Beraterin (DGSF), Sexualtherapeutin, Paartherapeutin und Mediatorin. Sie ist promoviert in Medizinischer Psychologie (UNiversität Heidelberg) und hat Expertise in der Arbeits- und Organisationsberaterin (Einzel- und Teamsupervision, Begleitung von Teamentwicklungsprozessen).
 
-Sie war wissenschaftliche Mitarbeiterin an der Universität Heidelberg mit Schwerpunkten in den Bereichen Depression und Krebs.
+Sie ist wissenschaftliche Mitarbeiterin an der Universität Heidelberg mit Schwerpunkten in den Bereichen Depression und Krebs.
 
 **Qualifikationen:**
-- Systemische Therapeutin & Beraterin (DGSF)
-- Sexualtherapeutin
-- Paartherapeutin
-- Mediatorin
-- Arbeits- und Organisationsberaterin
+- Systemische Therapie & Beratung (DGSF)
+- Sexualtherapie
+- Paartherapie
+- Mediaton
+- Arbeits- und Organisationsberatung
 
 </div>
 </div>
