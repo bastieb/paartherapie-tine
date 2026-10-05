@@ -45,9 +45,9 @@ She was a research associate at Heidelberg University, specialising in depressio
 
 ## Samantha Lang
 
-**Psychotherapy (HPP)**
+**Psychotherapy (HPP) · M.A. Education**
 
-Samantha Lang is a systemic therapist and counsellor (DGSF) and sex therapist in training. She works in individual and couples therapy, as a psychological counsellor, children and adolescent coach and in outreach family support.
+Samantha Lang is a systemic therapist and counsellor (DGSF), couples therapist and sex therapist in training. She works in individual and couples therapy, as a psychological counsellor, children and adolescent coach and in outreach family support.
 
 Before her therapeutic career, she worked as a secondary school teacher.
 
