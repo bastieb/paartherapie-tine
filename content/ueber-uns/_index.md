@@ -47,12 +47,13 @@ Sie ist wissenschaftliche Mitarbeiterin an der Universität Heidelberg mit Schwe
 
 **Psychotherapie (HPP)**
 
-Samantha Lang ist systemische Therapeutin und Beraterin (DGSF) sowie Sexualtherapeutin in Ausbildung. Sie arbeitet in der Einzel- und Paartherapie sowie als psychologische Beraterin, Kinder- und Jugendcoach und in der aufsuchenden Familienhilfe (Beratung, Therapie).
+Samantha Lang ist systemische Therapeutin und Beraterin (DGSF), Sexualtherapeutin (i.A.), Paartherapeutin sowie HP für Psychotherapie. Sie arbeitet in der Einzel- und Paartherapie sowie als psychologische Beraterin, Kinder- und Jugendcoach und in der aufsuchenden Familienhilfe (Beratung, Therapie).
 
 Vor ihrer therapeutischen Tätigkeit war sie als Gymnasiallehrerin tätig.
 
 **Qualifikationen:**
 - Systemische Therapeutin & Beraterin (DGSF)
+- HP für Psychotherapie
 - Paartherapeutin
 - Sexualtherapeutin (i.A.)
 - Psychologische Beraterin
