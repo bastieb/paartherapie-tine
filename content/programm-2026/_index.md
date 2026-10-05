@@ -22,6 +22,7 @@ Basierend auf der Forschung und Paartherapie von John Gottman, der emotionsfokus
 | **Kosten** | 400 € pro Paar |
 | **Gruppengröße** | 3–4 Paare |
 | **Sprache** | Deutsch |
+| **Anmeldeschluss** | 30.10.2026 |
 
 ---
 
