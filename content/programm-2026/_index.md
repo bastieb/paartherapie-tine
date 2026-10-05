@@ -17,7 +17,7 @@ Basierend auf der Forschung und Paartherapie von John Gottman, der emotionsfokus
 
 | | |
 |---|---|
-| **Termine** |  21.–22. November 2026 |
+| **Termine** |  21.–22. November 2026 | Sa 13-17 Uhr, So 10-13:30 Uhr
 | **Kosten** | 400 € pro Paar |
 | **Gruppengröße** | 3–4 Paare |
 | **Sprache** | Deutsch |
