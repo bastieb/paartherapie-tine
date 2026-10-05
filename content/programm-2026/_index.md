@@ -13,7 +13,8 @@ Ergänzend zu unserer therapeutischen Arbeit bieten wir 2026 Workshops in kleine
 
 **Grundlagen einer gelungenen Paarkommunikation**
 
-Basierend auf der Forschung und Paartherapie von John Gottman, der emotionsfokussierten Paartherapie von Dr. Sue Johnson, der entwicklungs- und differenzierungsfokussierten Paartherapie von Dr. Ellyn Bader sowie der systemischen Paar- und Sexualtherapie, arbeiten wir gemeinsam an zentralen Themen für eine glückliche Beziehung: Kommunikation & Konflikt, Emotionen & Stress, Bedürfnisse & Wünsche, Nähe, Intimität & Sexualität.
+Basierend auf der Forschung und Paartherapie von John Gottman, der emotionsfokussierten Paartherapie von Dr. Sue Johnson, der entwicklungs- und differenzierungsfokussierten Paartherapie von Dr. Ellyn Bader sowie der systemischen Paar- und Sexualtherapie, arbeiten wir gemeinsam an zentralen Themen für eine glückliche Beziehung: 
+Kommunikation & Konflikt, Emotionen & Stress, Bedürfnisse & Wünsche, Nähe, Intimität & Sexualität.
 
 | | |
 |---|---|
