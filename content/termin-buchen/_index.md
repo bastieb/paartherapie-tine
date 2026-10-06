@@ -12,3 +12,5 @@ Wählen Sie unten einen passenden Termin. Die Buchung läuft über unser eigenes
           style="width:100%; height:1150px; border:0; border-radius:10px; box-shadow:0 4px 16px rgba(0,0,0,0.10);"
           loading="lazy"></iframe>
 </div>
+
+Bitte beachten Sie, dass unsere Workshops nicht über das Buchungssystem gebucht werden können. Bitte kontaktieren Sie uns hierfür per Mail.
