@@ -13,4 +13,5 @@ Wählen Sie unten einen passenden Termin. Die Buchung läuft über unser eigenes
           loading="lazy"></iframe>
 </div>
 
+
 Bitte beachten Sie, dass unsere Workshops nicht über das Buchungssystem gebucht werden können. Bitte kontaktieren Sie uns hierfür per Mail: kontakt@heidelberg-paartherapie.de 
